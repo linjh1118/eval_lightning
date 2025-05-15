@@ -1,0 +1,16 @@
+{"time":"2025-05-15T11:46:46.350118+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/lincode/Downloads/new/wandb/run-20250515_114646-17av8inv/logs/debug-core.log"}
+{"time":"2025-05-15T11:46:47.744251+08:00","level":"INFO","msg":"created new stream","id":"17av8inv"}
+{"time":"2025-05-15T11:46:47.744308+08:00","level":"INFO","msg":"stream: started","id":"17av8inv"}
+{"time":"2025-05-15T11:46:47.744315+08:00","level":"INFO","msg":"handler: started","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:47.744338+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:47.744403+08:00","level":"INFO","msg":"sender: started","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:48.293771+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-15T11:46:48.365436+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-15T11:46:48.365716+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-15T11:46:49.37174+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.715620166,"progress":"987B/987B"},{"desc":"uploading requirements.txt","runtime_seconds":0.661536,"progress":"1.7KB/1.7KB"},{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.282267708},{"desc":"updating run config","runtime_seconds":0.261446625}],"total_operations":4}}
+{"time":"2025-05-15T11:46:50.276156+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-15T11:46:50.936576+08:00","level":"INFO","msg":"stream: closing","id":"17av8inv"}
+{"time":"2025-05-15T11:46:50.936622+08:00","level":"INFO","msg":"handler: closed","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:50.936694+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:50.936852+08:00","level":"INFO","msg":"sender: closed","stream_id":"17av8inv"}
+{"time":"2025-05-15T11:46:50.937217+08:00","level":"INFO","msg":"stream: closed","id":"17av8inv"}

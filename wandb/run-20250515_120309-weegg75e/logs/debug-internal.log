@@ -1,0 +1,16 @@
+{"time":"2025-05-15T12:03:09.433738+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/lincode/Downloads/new/wandb/run-20250515_120309-weegg75e/logs/debug-core.log"}
+{"time":"2025-05-15T12:03:10.400241+08:00","level":"INFO","msg":"created new stream","id":"weegg75e"}
+{"time":"2025-05-15T12:03:10.400303+08:00","level":"INFO","msg":"stream: started","id":"weegg75e"}
+{"time":"2025-05-15T12:03:10.400351+08:00","level":"INFO","msg":"sender: started","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:10.40037+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:10.400464+08:00","level":"INFO","msg":"handler: started","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:10.881056+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-15T12:03:11.914435+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-15T12:03:11.915726+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-15T12:03:11.970687+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.659766458,"progress":"987B/987B"},{"desc":"uploading requirements.txt","runtime_seconds":0.571562833,"progress":"1.7KB/1.7KB"},{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.053073833},{"desc":"updating run config","runtime_seconds":0.037055667}],"total_operations":4}}
+{"time":"2025-05-15T12:03:13.210245+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-15T12:03:13.811497+08:00","level":"INFO","msg":"stream: closing","id":"weegg75e"}
+{"time":"2025-05-15T12:03:13.811673+08:00","level":"INFO","msg":"handler: closed","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:13.811893+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:13.812187+08:00","level":"INFO","msg":"sender: closed","stream_id":"weegg75e"}
+{"time":"2025-05-15T12:03:13.812723+08:00","level":"INFO","msg":"stream: closed","id":"weegg75e"}

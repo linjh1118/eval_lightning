@@ -1,0 +1,24 @@
+Evaluating model_step_100...
+  Processed 10/30 samples
+  Processed 20/30 samples
+  Processed 30/30 samples
+  Final score: 0.4904
+  Time taken: 0.00s
+Evaluating model_step_500...
+  Processed 10/30 samples
+  Processed 20/30 samples
+  Processed 30/30 samples
+  Final score: 0.6786
+  Time taken: 0.00s
+Evaluating model_step_1000...
+  Processed 10/30 samples
+  Processed 20/30 samples
+  Processed 30/30 samples
+  Final score: 0.8727
+  Time taken: 0.00s
+Evaluating model_step_2000...
+  Processed 10/30 samples
+  Processed 20/30 samples
+  Processed 30/30 samples
+  Final score: 0.9434
+  Time taken: 0.00s
