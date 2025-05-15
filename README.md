@@ -25,7 +25,7 @@ The demo compared models at different training steps (100, 500, 1000, 2000) show
 
 ```bash
 # Install from source
-git clone https://github.com/yourusername/eval-lightning.git
+git clone https://github.com/linjh1118/eval-lightning.git
 cd eval-lightning
 pip install -e .
 
